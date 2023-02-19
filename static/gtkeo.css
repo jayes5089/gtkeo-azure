@@ -1,0 +1,21 @@
+h1{ color:darkred}
+h2{ color:darkred}
+
+h1{ text-align: center;}
+p { text-align: center;}
+h2{ text-align: center;}
+
+.intro{text-align: center;}
+.image{display:inline-block;}
+.text{width: 370px; display:inline-block;}
+
+.middle{text-align:center;}
+.learn{display:inline-table; width: 300px}
+.hobby{display:inline-table; width: 300px}
+.fact{display:inline-table; width: 300px}
+
+
+.row{text-align: center;}
+.i1{display:inline-table;}
+.i2{display:inline-table;}
+.i3{display:inline-table;}
